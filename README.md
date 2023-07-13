@@ -1,0 +1,2 @@
+# Titanic
+First kaggle submission
